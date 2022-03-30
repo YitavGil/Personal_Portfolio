@@ -1,9 +1,10 @@
 #home {
     position: relative;
-    background: url(../../assets/bgIMG.png);
+    background: url(../../assets/bgimagec.jpg);
     background-size: cover ;
     background-repeat: repeat;
     background-position: center;
+   
 
     .app__wrapper{
         padding: 0;
@@ -165,7 +166,7 @@
 
 
         img {
-            width: 90%;
+            width: 60%;
             object-fit: contain;
             border: 9px solid rgb(207, 237, 246);
             border-radius: 50%;
